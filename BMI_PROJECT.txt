@@ -1,0 +1,47 @@
+*********************************************
+module 1 - 182,80
+-easy
+ height range = { 160 - 190}
+ weight range = { 70-100 }
+
+ generate a random entry for 500
+**********************************************
+=============================================
+TKinter UI - 
+-intermidiate
+1-> total - x < 500 *note: please enter a value 
+less than 500
+
+2-> get the range of the height (160 < x < 190)
+3-> get the range of the weight (70 < x < 100)
+=================================================
+
+module2
+-easy
+1->read each line from the created file
+2-> calculate bmi of each player bmi =500 players*[list]
+3->{process using numpy} create a list named 'overweight' of 
+players whose bmi > 25 
+
+
+===============================================
+-intermidiate
+
+3* - > 3 lists - underweight, normal, overweight
+================================================
+
+module3 - finale
+
+matplotlib - easy
+
+overweight list
+
+bmi, (*list) -> Text(player's bmi)
+
+==============================================
+
+
+
+
+
+
